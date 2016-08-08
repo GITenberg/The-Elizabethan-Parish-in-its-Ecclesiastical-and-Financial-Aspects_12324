@@ -1,0 +1,25 @@
+_repo: The-Elizabethan-Parish-in-its-Ecclesiastical-and-Financial-Aspects_12324
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ware, Sedley Lynch
+    birthdate: 1868
+    gutenberg_agent_id: '4315'
+    url: http://www.gutenberg.org/2009/agents/4315
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JS'
+- !lcsh 'England -- Church history -- 16th century'
+- !lcsh 'Church of England -- Finance'
+- !lcsh 'Parishes -- Great Britain'
+- GITenberg
+title: The Elizabethan Parish in its Ecclesiastical and Financial Aspects
+url: http://www.gutenberg.org/ebooks/12324
